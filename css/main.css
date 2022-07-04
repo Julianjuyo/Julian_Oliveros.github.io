@@ -5324,6 +5324,7 @@ li{
 
 
 
+
 /*SG = style grid*/
 .SG{
   margin: 0;
@@ -5392,3 +5393,20 @@ li{
 @media (max-width: 425px){
   .SG .sgLi{width: 100%;}
 }
+
+
+
+/*FOR THE PORTFOLIO*/
+
+.margin-proyects{
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.text-teal {
+  color: #378C3F; }
+
+.text-small {
+  font-size: 0.85rem; }
