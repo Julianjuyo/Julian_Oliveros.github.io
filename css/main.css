@@ -2243,6 +2243,10 @@ h5, .h5 {
   line-height: 1.4em;
   margin-bottom: 15px; }
 
+.bold_text{
+  font-weight: bold;
+}
+
 h6, .h6 {
   font-size: 1em;
   font-weight: 700;
@@ -2272,7 +2276,7 @@ p {
 .category {
   text-transform: uppercase;
   font-weight: 700;
-  font-weight: "bold";
+  font-weight: bold;
   color: #000000; }
 
 .text-primary {
