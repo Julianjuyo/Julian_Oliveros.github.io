@@ -7873,6 +7873,11 @@ a.bg-dark:hover {
     text-align: center!important
 }
 
+.text-sizecopy {
+    text-align: center!important;
+    font-size: 5educationpx
+}
+
 @media (min-width:576px) {
     .text-sm-left {
         text-align: left!important

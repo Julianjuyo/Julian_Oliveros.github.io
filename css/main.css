@@ -5216,10 +5216,18 @@ Created using IcoMoon - icomoon.io
   margin-bottom: 0; }
 
 .cc-education .cc-education-header {
-  padding-top: 60px;
+  padding-top: 3px;
   padding-right: 0;
   text-align: center;
   color: #fff; }
+
+
+.uniandes-logo {
+    width: 150px;
+    height: 170px;
+}
+
+
 
 /* References Style */
 .cc-reference .card {
