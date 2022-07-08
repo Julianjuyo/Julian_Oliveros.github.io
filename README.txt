@@ -27,6 +27,7 @@ If you have purchased any of the premium version then you will also get
 SCSS source files which generates all the styles of the template.
 You can use these SCSS files to make your changes and regenerate CSS.
 
+
 3. Changing Images
 
 You can change images inside the images\ folder.
